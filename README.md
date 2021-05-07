@@ -7,3 +7,5 @@ Here are the steps I took to create my model:
 4. Determine which model to proceed with
 5. Fine Tune the model through Cross Validation
 6. Simplify the model
+
+Here is the link to the article that goes with this analysis: https://aroofa-maknojia.medium.com/world-health-organization-life-expectancy-machine-learning-model-700495a35041
